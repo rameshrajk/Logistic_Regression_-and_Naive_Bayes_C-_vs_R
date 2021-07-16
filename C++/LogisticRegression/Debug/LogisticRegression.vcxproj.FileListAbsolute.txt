@@ -1,0 +1,2 @@
+C:\Users\RaxyR\source\repos\LogisticRegression\Debug\LogisticRegression.exe
+C:\Users\RaxyR\source\repos\LogisticRegression\Debug\LogisticRegression.pdb
