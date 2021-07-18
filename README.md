@@ -1,0 +1,2 @@
+# Logistic_Regression_and_Naive_Bayes_Cpp_vs_R
+This project implements Logistic Regression and Naive Bayes machine learning algorithms from scratch in C++ and then compares the results and performance to using the equivalent functions in R. The first 900 rows of a Titanic data set was used and passenger survival was predicted as a factor. For each algorithm, included is an R script, knitted PDF from R, C++ program, and a report comparing run times and other metrics.
